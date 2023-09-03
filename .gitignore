@@ -11,6 +11,11 @@
 # production
 /build
 
+#Ignore modules
+node_modules/
+.DS_Store
+.vscode/
+
 # misc
 .DS_Store
 .env.local
