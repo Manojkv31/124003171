@@ -15,6 +15,7 @@
 node_modules/
 .DS_Store
 .vscode/
+robots.txt
 
 # misc
 .DS_Store
